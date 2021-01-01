@@ -11,4 +11,10 @@ following tutorial cooding cafe
 
 
 
-1. <img src="Images/Screenshot_1609520569.png" width=150/>  
+1. <img src="Images/Screenshot_1609520569.png" width=150/> 2. <img src="Images/Screenshot_1609520591.png" width=150/> 3. <img src="Images/Screenshot_1609520599.png" width=150/>4. <img src="Images/Screenshot_1609520666.png" width=150/>   
+
+
+5. <img src="Images/Screenshot_1609520986.png" width=150/> 6. <img src="Images/Screenshot_1609521054.png" width=150/> 7. <img src="Images/Screenshot_1609521071.png" width=150/>8. <img src="Images/Screenshot_1609520922.png" width=150/>   
+
+
+9. <img src="Images/Screenshot_1609522692.png" width=150/> 10. <img src="Images/Screenshot_1609523532.png" width=150/> 11. <img src="Images/Screenshot_1609523547.png" width=150/>12. <img src="Images/Screenshot_1609523550.png" width=150/>   
