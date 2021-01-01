@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245299373943",
+    "project_id": "e-commerce-project-90a3a",
+    "storage_bucket": "e-commerce-project-90a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245299373943:android:c0b244bd8c734612e9e372",
+        "android_client_info": {
+          "package_name": "com.tamim.ecommerceproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245299373943-88o3079vk3kpibrlhsdptdsabf9gf8eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYw3sAcQoBF63gEK1asC1-_xxOx_TdZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245299373943-88o3079vk3kpibrlhsdptdsabf9gf8eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
