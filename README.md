@@ -17,4 +17,4 @@ following tutorial cooding cafe
 
 4.   <img src="Images/Screenshot_1609520666.png" width=150/>   5.<img src="Images/Screenshot_1609520895.png" width=150/>   6. <img src="Images/Screenshot_1609520922.png" width=150/>
 
-4.   <img src="Images/Screenshot_1609521071.png" width=150/>   5.<img src="Images/Screenshot_1609520986.png" width=150/>   6. <img src="Images/Screenshot_1609520933.png" width=150/>
+7.   <img src="Images/Screenshot_1609521071.png" width=150/>   7.<img src="Images/Screenshot_1609520986.png" width=150/>   6. <img src="Images/Screenshot_1609520933.png" width=150/>
